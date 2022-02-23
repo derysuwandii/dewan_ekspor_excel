@@ -1,5 +1,5 @@
 <?php
-//Menggabungkan dengan file koneksi yang telah kita buat yey :D
+//Menggabungkan dengan file koneksi yang telah kita buat :D
 include 'koneksi.php';
 
 header("Content-type: application/vnd-ms-excel");
